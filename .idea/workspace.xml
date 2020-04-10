@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccc220ec-418c-47fa-a408-274187d4c5e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,14 @@
       <option name="presentableId" value="Default" />
       <updated>1579803612867</updated>
     </task>
+    <task id="LOCAL-00001" summary="Revert &quot;inicio de proyecto #1&quot;&#10;&#10;This reverts commit 40827106">
+      <created>1586558697241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586558697241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,14 +88,18 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="560" y="184" key="#Project_Structure/0.0.1920.1044@0.0.1920.1044" timestamp="1579803629537" />
-    <state x="606" y="106" key="CommitChangelistDialog2" timestamp="1586558697115">
+    <state x="739" y="212" key="CommitChangelistDialog2" timestamp="1586558788296">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="606" y="106" key="CommitChangelistDialog2/0.0.1920.1044@0.0.1920.1044" timestamp="1586558697115" />
-    <state x="738" y="240" key="git4idea.branch.GitSmartOperationDialog" timestamp="1586558730006">
+    <state x="739" y="212" key="CommitChangelistDialog2/0.0.1920.1044@0.0.1920.1044" timestamp="1586558788296" />
+    <state x="756" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586558820459">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="738" y="240" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1586558730006" />
+    <state x="756" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1044@0.0.1920.1044" timestamp="1586558820459" />
+    <state x="738" y="240" key="git4idea.branch.GitSmartOperationDialog" timestamp="1586558793297">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="738" y="240" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1586558793297" />
     <state x="341" y="136" key="new project wizard" timestamp="1579803625726">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
