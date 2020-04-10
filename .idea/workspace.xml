@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d0b87c7-a31c-489d-a174-321c48a555a4" name="Default Changelist" comment="" />
+    <list default="true" id="ccc220ec-418c-47fa-a408-274187d4c5e1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
   <component name="ProjectId" id="1Wo6U6LcMjikO7m114uYBxpO9hl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,6 +50,21 @@
       <updated>1579803612867</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;inicio de proyecto #1&quot;&#10;&#10;This reverts commit 40827106" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;inicio de proyecto #1&quot;&#10;&#10;This reverts commit 40827106" />
   </component>
   <component name="WindowStateProjectService">
     <state x="560" y="184" key="#Project_Structure" timestamp="1579803629537">
