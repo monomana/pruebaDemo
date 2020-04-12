@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccc220ec-418c-47fa-a408-274187d4c5e1" name="Default Changelist" comment="">
+    <list default="true" id="ccc220ec-418c-47fa-a408-274187d4c5e1" name="Default Changelist" comment="Revert &quot;inicio de proyecto #1&quot;&#10;&#10;This reverts commit 40827106">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="87597c18453d2853d039efd35fe70b9e506eafde" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,10 +93,10 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="424" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1586710291373" />
-    <state x="739" y="208" key="CommitChangelistDialog2" timestamp="1586716582508">
+    <state x="739" y="208" key="CommitChangelistDialog2" timestamp="1586717587601">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="739" y="208" key="CommitChangelistDialog2/0.0.1920.1044@0.0.1920.1044" timestamp="1586716582508" />
+    <state x="739" y="208" key="CommitChangelistDialog2/0.0.1920.1044@0.0.1920.1044" timestamp="1586717587601" />
     <state x="448" y="100" key="SettingsEditor" timestamp="1586716564268">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>

@@ -20,7 +20,7 @@ notifications:
 #      sonarcloud:
 #        organization: "monomana"
 #        token:
-#          secure: "**************************" # encrypted value of your token
+#          secure: "**************************" # encrypted value of your token p
 
     script:
       # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
