@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccc220ec-418c-47fa-a408-274187d4c5e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,10 +92,14 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="424" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1586710291373" />
-    <state x="739" y="212" key="CommitChangelistDialog2" timestamp="1586558788296">
+    <state x="739" y="208" key="CommitChangelistDialog2" timestamp="1586716582508">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="739" y="212" key="CommitChangelistDialog2/0.0.1920.1044@0.0.1920.1044" timestamp="1586558788296" />
+    <state x="739" y="208" key="CommitChangelistDialog2/0.0.1920.1044@0.0.1920.1044" timestamp="1586716582508" />
+    <state x="448" y="100" key="SettingsEditor" timestamp="1586716564268">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="448" y="100" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1586716564268" />
     <state x="756" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586558820459">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
