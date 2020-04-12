@@ -22,7 +22,7 @@ notifications:
 #        token:
 #          secure: "**************************" # encrypted value of your token p
 
-    script:
+  script:
       # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
-      - mvn org.jacoco:jacoco-maven-plugin:prepare-agent verify
-      - mvn sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=monomana -Dsonar.login=$SONAR
+    - mvn org.jacoco:jacoco-maven-plugin:prepare-agent verify
+    - mvn sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=monomana -Dsonar.login=$SONAR
