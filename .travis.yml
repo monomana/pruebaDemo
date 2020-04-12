@@ -1,0 +1,27 @@
+language: java
+branches:
+  only:
+    - develop
+    - /^release-[0-999].[0-999]$/
+    - master
+notifications:
+  email:
+    recipients:
+      - mjat.util@gmail.com
+# services:
+# - mysql
+# - mongodb
+# before_install:
+# - mysql -e 'CREATE DATABASE IF NOT EXISTS forge;'
+#script:
+  ##Test unitario y de integracion con cobertura (jacoco) & SONARCLOUD
+  #- mvn verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=monomana -Dsonar.login=$SONAR
+#  - addons:
+#      sonarcloud:
+#        organization: "monomana"
+#        token:
+#          secure: "**************************" # encrypted value of your token
+
+    script:
+      # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
+      - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar
