@@ -25,3 +25,4 @@ notifications:
     script:
       # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
       - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar
+      - mvn verify sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=monomana -Dsonar.login=$SONAR
