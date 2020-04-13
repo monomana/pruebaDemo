@@ -3,3 +3,6 @@
 
 ## Estado de travis
 [![Build Status](https://travis-ci.com/monomana/pruebaEcosistema.svg?branch=develop)](https://travis-ci.com/monomana/pruebaEcosistema)
+
+## estado bettercode
+[![BCH compliance](https://bettercodehub.com/edge/badge/monomana/pruebaEcosistema?branch=develop)](https://bettercodehub.com/)
