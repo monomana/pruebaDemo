@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="ccc220ec-418c-47fa-a408-274187d4c5e1" name="Default Changelist" comment="" />
+=======
     <list default="true" id="ccc220ec-418c-47fa-a408-274187d4c5e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
+>>>>>>> 709c25ece40d163f25ebe43f867567d44fe42df8
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,10 +34,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="yaml&#10;TEXT" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring-Boot-WebSocket-master" />
+>>>>>>> 709c25ece40d163f25ebe43f867567d44fe42df8
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.3034483" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -108,7 +122,15 @@
     <state x="448" y="100" key="SettingsEditor" timestamp="1586716564268">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
+<<<<<<< HEAD
     <state x="448" y="100" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1586716564268" />
+=======
+    <state x="739" y="212" key="CommitChangelistDialog2/0.0.1920.1044@0.0.1920.1044" timestamp="1586558788296" />
+    <state x="748" y="280" key="FileChooserDialogImpl" timestamp="1586639469136">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="748" y="280" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1586639469136" />
+>>>>>>> 709c25ece40d163f25ebe43f867567d44fe42df8
     <state x="756" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586558820459">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>

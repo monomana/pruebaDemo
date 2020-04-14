@@ -10,14 +10,22 @@
 	</parent>
 	<groupId>com.4eme.template</groupId>
 	<artifactId>template</artifactId>
+<<<<<<< HEAD
 	<version>1.2.0-SNAPSHOT</version>
+=======
+
+>>>>>>> 709c25ece40d163f25ebe43f867567d44fe42df8
 	<name>template</name>
 	<description>Demo project for Spring Boot template</description>
 
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
+<<<<<<< HEAD
 
+=======
+<!-- mono aguero asd -->
+>>>>>>> 709c25ece40d163f25ebe43f867567d44fe42df8
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
