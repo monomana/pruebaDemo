@@ -6,3 +6,6 @@
 
 ## estado bettercode
 [![BCH compliance](https://bettercodehub.com/edge/badge/monomana/pruebaEcosistema?branch=develop)](https://bettercodehub.com/)
+
+## CI Actions
+![Java CI with Maven](https://github.com/monomana/pruebaEcosistema/workflows/Java%20CI%20with%20Maven/badge.svg?branch=develop)
