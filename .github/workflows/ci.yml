@@ -26,7 +26,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-        run: mvn -B sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=monomana
+        run: mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar -Dsonar.projectKey=monomana_pruebaDemo -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=monomana -Dsonar.login=$SONAR_TOKEN
+#        mvn -B sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=monomana
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@v1.1
         env:
