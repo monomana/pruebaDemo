@@ -22,15 +22,20 @@ jobs:
           java-version: 1.8
       - name: Build with Maven
         run: mvn -B package --file pom.xml
-      - name: Analyse with Sonar
+      - name: Build
+        uses: actions/checkout@v1
+      - name: Run Maven
+        uses: xlui/action-maven-cli/jdk11@master
+        with:
+          args: clean package org.sonarsource.scanner.maven:sonar-maven-plugin:sonar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-        run: mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar -Dsonar.projectKey=monomana_pruebaDemo -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=monomana -Dsonar.login=$SONAR_TOKEN
-#        mvn -B sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=monomana
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@v1.1
         env:
           #        super_secret: ${{ secrets.SONAR_TOKEN }}
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+

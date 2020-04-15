@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccc220ec-418c-47fa-a408-274187d4c5e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,10 +114,10 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="448" y="100" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1586716564268" />
-    <state x="655" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1586952784582">
+    <state x="655" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1586955667001">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="655" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1586952784582" />
+    <state x="655" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1586955667001" />
     <state x="756" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586558820459">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
